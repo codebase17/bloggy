@@ -1,0 +1,10 @@
+#To Create Virtual Environment in Python
+pip install virtualenv
+python -m virtualenv virtual-env-name
+
+#To activate virtual envirnoment
+virtual-env-name\Scripts\Activate
+
+#To Install djangorestframework
+pip install djangorestframework
+
